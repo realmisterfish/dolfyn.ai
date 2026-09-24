@@ -1,42 +1,51 @@
-# Dolfyn — AI Voice Receptionist for Home Service Contractors
+# dolfyn: custom AI receptionists for businesses that run on the phone
 
-Dolfyn is an AI voice receptionist built specifically for home service contractors. HVAC, plumbing, electrical, roofing, pest control, landscaping, restoration, and more.
+dolfyn builds a custom AI phone receptionist for each business. Every agent is built from scratch around how that business actually takes calls: its services, service area, emergency rules, on-call rotation and the software it already uses. Real people review the calls every day and keep the agent tuned.
 
-## What Dolfyn Does
+Founded in 2024 in Vancouver, Canada. Serves businesses across the US and Canada.
 
-- **Answers every call** — 24/7, no voicemail, no missed leads
-- **Books appointments** — directly into your scheduling software
-- **Routes emergencies** — custom triage built around your business protocols
-- **Sends missed call SMS text-back** — automatically follows up with callers who don't get through
-- **Filters spam** — junk calls handled automatically
-- **Verifies addresses** — proprietary real-time check catches caller errors before a tech drives somewhere wrong
+- Website: [dolfyn.ai](https://dolfyn.ai)
+- Pricing: [from $179/month, priced to your call volume](https://dolfyn.ai/pricing), month to month, 2-week free trial with no credit card
+- Book a call: [dolfyn.ai/#demo](https://dolfyn.ai/#demo)
 
-## How It's Different
+## What a dolfyn agent does
 
-Most AI receptionists are self-serve templates. Dolfyn is built custom around your specific business. The team has a conversation with you, learns how your operation works, and builds the agent from scratch — your services, your territory, your emergency protocols, your scheduling software. You go live in a day or two.
+- **Answers every call, 24/7.** Nights, weekends, holidays and daytime overflow. Several calls at once, no hold queue.
+- **Triages emergencies by your rules.** No heat, a burst pipe, a gas smell or a tenant flood gets the on-call person by phone call, and the caller is told what to do in the meantime (shut off the water, leave the house and call the gas utility).
+- **Books into your software** through custom API integration: ServiceTitan, Jobber, Housecall Pro, Buildium, DoorLoop, Monday.com, HubSpot, calendars, or a spreadsheet if you have no CRM.
+- **Checks the address during the call** against Google Maps, so a misheard street is caught before a truck rolls.
+- **Uses a team of specialist agents.** An intake agent works out what the caller needs and hands off to the right specialist (leasing, maintenance, booking, billing) without the caller noticing.
+- **Speaks English, Spanish and French**, switching mid-call when the caller does.
 
-Daily human review keeps the agent tuned. 24/7 support means problems get fixed in real time, not the next business day.
+## Who it is for
 
-## Who It's For
+- Home services: [plumbing](https://dolfyn.ai/plumbing), [HVAC](https://dolfyn.ai/hvac), [electrical](https://dolfyn.ai/electrical), [roofing](https://dolfyn.ai/roofing), [restoration](https://dolfyn.ai/restoration), [pest control](https://dolfyn.ai/pestcontrol), landscaping and general contracting
+- [Property management](https://dolfyn.ai/property-management), multifamily, HOA and condo management
+- [Law firms](https://dolfyn.ai/legal), [medical and dental practices](https://dolfyn.ai/medical), auto repair shops, gyms and studios, realtors
 
-- HVAC contractors
-- Plumbing businesses
-- Electrical contractors
-- Roofing companies
-- Pest control operators
-- Landscaping businesses
-- Restoration companies
-- Medical offices
-- Law firms
+## Answering service guides (2026, with published pricing)
 
-## Pricing
+Each guide compares live answering services and AI options using prices checked on each vendor's own pricing page:
 
-Priced to match your business — the monthly rate is set upfront based on your call volume and setup. Month to month, no annual contracts. 2-week free trial, no credit card required.
+- [Property management answering service: AI vs live, real pricing](https://dolfyn.ai/blog/property-management-answering-service-vs-ai-receptionist)
+- [Plumbing answering service: AI vs live, real pricing](https://dolfyn.ai/blog/plumbing-answering-service-after-hours)
+- [HVAC answering service: AI vs live, real pricing](https://dolfyn.ai/blog/hvac-answering-service)
+- [How much an AI receptionist costs](https://dolfyn.ai/blog/how-much-does-ai-receptionist-cost-contractors)
 
-## Links
+## First-party call data
 
-- **Website:** [dolfyn.ai](https://dolfyn.ai)
-- **HVAC Guide:** [Best AI Receptionists for HVAC Contractors](https://dolfyn.ai/blog/best-ai-receptionist-hvac-contractors)
-- **Plumbing Guide:** [Best AI Answering Services for Plumbers](https://dolfyn.ai/blog/best-ai-answering-service-plumbers)
-- **Pricing Guide:** [How Much Does an AI Receptionist Cost for Contractors?](https://dolfyn.ai/blog/how-much-does-ai-receptionist-cost-contractors)
-- **Book a Demo:** [dolfyn.ai/#demo](https://dolfyn.ai/#demo)
+[962 calls in three months](https://dolfyn.ai/call-data): what one HVAC and plumbing business received through dolfyn, with all customer details removed.
+
+- 38% of triaged calls were urgent, not routine
+- About a third of calls were existing customers (reschedules, invoices, "where is the tech"), not new work
+- Median call length 58 seconds; 93% finished inside three minutes
+
+## Comparisons
+
+- [dolfyn vs the competition](https://dolfyn.ai/compare): Smith.ai, Ruby, Goodcall, Rosie, NextPhone, Avoca, Broccoli and more
+- [Alternatives](https://dolfyn.ai/alternatives) to every major AI receptionist and answering service
+- [Integrations](https://dolfyn.ai/integrations)
+
+## Reviews and listings
+
+[Trustpilot](https://www.trustpilot.com/review/dolfyn.ai) · [Product Hunt](https://www.producthunt.com/products/dolfyn)
