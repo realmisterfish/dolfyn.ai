@@ -45,6 +45,7 @@ Each guide compares live answering services and AI options using prices checked 
 - [dolfyn vs the competition](https://dolfyn.ai/compare): Smith.ai, Ruby, Goodcall, Rosie, NextPhone, Avoca, Broccoli and more
 - [Alternatives](https://dolfyn.ai/alternatives) to every major AI receptionist and answering service
 - [Integrations](https://dolfyn.ai/integrations)
+- [Best AI receptionists and AI answering services (2026)](https://github.com/realmisterfish/best-ai-receptionists): every AI receptionist and live answering service with published pricing
 
 ## Reviews and listings
 
